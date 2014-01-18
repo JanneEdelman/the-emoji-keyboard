@@ -1,4 +1,5 @@
-The Emoji Keyboard
-==================
+The Emoji Keyboard for Jolla
+============================
 
-The Emoji Keyboard for Jolla mobile
+More information on Support Pages
+https://github.com/JanneEdelman/the-emoji-keyboard/wiki
